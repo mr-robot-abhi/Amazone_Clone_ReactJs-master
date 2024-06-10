@@ -1,9 +1,7 @@
 
-# Amazon - Clone using ReactJs
+# Amazon - Clone That Works - Using ReactJs
 
-**Project Link** - ***https://alanbinu-ecommerce.web.app/***
-
-## Tech We Used
+## Stacks Used
 
 - ReactJs
 - Firebase Hosting
@@ -21,9 +19,8 @@
 - Payment 
 - Neat and clean UI
 
-## Steps to run in your machine
 
-#### Run the following commands
+##Run the following commands
 ```
 npm i
 npm run start
@@ -32,4 +29,4 @@ npm run start
 
 
 
-#### Hope you liked this project, dont forget to ⭐ the repo.
+#### Please leave a star ⭐ if you like this. Fork and pull requests to contribute. 
